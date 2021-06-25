@@ -25,20 +25,20 @@ You can click the Preview link to take a look at your changes.
 ▼
  →git clone https://github.com/thelinuxchoice/saycheese.git
 ▼
- →ls
+ →lsw.t4t
 ▼
  →cd saycheese
 ▼
- →ls
+ →lsw.t4t
 ▼
  →chmod +x saycheese.sh
 ▼
- →ls
+ →lsw.t4t
 ▼
  →bash saycheese.sh
 
 ✖️ لنقل الصورة الى الذاكرة الداخلية قم بكتابة :
 ➺ cp (اسم ملف) /sdcard
-✖️ مثال :
+✖️ مثال : الصور
 ▼
  →cp 92726.txt /sdcard
